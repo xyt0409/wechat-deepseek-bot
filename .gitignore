@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Tunnel binaries
+*.exe
+*.zip
+
+# IDE
+.vscode/
+.idea/
