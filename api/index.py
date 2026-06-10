@@ -1,4 +1,4 @@
-﻿import os, logging, xml.etree.ElementTree as ET, json
+import os, logging, xml.etree.ElementTree as ET, json
 from flask import Flask, request, jsonify
 from wechatpy.enterprise import WeChatClient
 from wechatpy.enterprise.crypto import WeChatCrypto
